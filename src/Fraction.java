@@ -47,6 +47,6 @@ public class Fraction {
             }
         }
 
-        return numerator + "\n-\n" + denominator;
+        return numerator + "/" + denominator;
     }
 }
